@@ -35,7 +35,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/1c967610-e8af-497f-b8db-86763c752d10/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/bf5/cc3/bf5cc3fa-fffb-4957-b500-890589a2308d"
+"https://dandiarchive.s3.amazonaws.com/blobs/bf5/cc3/bf5cc3fa-fffb-4957-b500-890589a2308d"
 ],
 "dateModified":
 "2023-11-11T10:50:00.478270-05:00",
@@ -191,7 +191,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:03.058918Z",
+"2024-04-29T19:33:28.092336Z",
 "path":
 "sub-Temp-pref-F22-B22-6dpf-01-unsorted-nac/sub-Temp-pref-F22-B22-6dpf-01-unsorted-nac_ses-20230605T145500_behavior.nwb",
 "size":
@@ -233,7 +233,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/bbe818bc-e5ae-4b12-ba38-cf8a292fd9b4/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/3d6/276/3d627601-0021-4c42-96cf-ded995cf2393"
+"https://dandiarchive.s3.amazonaws.com/blobs/3d6/276/3d627601-0021-4c42-96cf-ded995cf2393"
 ],
 "dateModified":
 "2023-11-11T10:50:00.578648-05:00",
@@ -389,7 +389,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:02.712087Z",
+"2024-04-29T19:33:28.083980Z",
 "path":
 "sub-Temp-pref-F22-B22-6dpf-02-unsorted-nac/sub-Temp-pref-F22-B22-6dpf-02-unsorted-nac_ses-20230605T152900_behavior.nwb",
 "size":
@@ -431,7 +431,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/c88aa2de-ba68-4c15-a2be-be9f68a91439/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/337/f18/337f1885-2ec6-4483-b7a7-f5b00e8d61ba"
+"https://dandiarchive.s3.amazonaws.com/blobs/337/f18/337f1885-2ec6-4483-b7a7-f5b00e8d61ba"
 ],
 "dateModified":
 "2023-11-11T10:50:00.578648-05:00",
@@ -587,7 +587,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:02.614211Z",
+"2024-04-29T19:33:28.079946Z",
 "path":
 "sub-Temp-pref-F22-B22-6dpf-03-unsorted-nac/sub-Temp-pref-F22-B22-6dpf-03-unsorted-nac_ses-20230605T160000_behavior.nwb",
 "size":
@@ -629,7 +629,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/e92cebb1-df18-4b3b-9a0e-8ad6264731ad/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/ef7/039/ef7039c0-def6-491d-8306-4ee2cf8e56c8"
+"https://dandiarchive.s3.amazonaws.com/blobs/ef7/039/ef7039c0-def6-491d-8306-4ee2cf8e56c8"
 ],
 "dateModified":
 "2023-11-11T10:50:00.578648-05:00",
@@ -785,7 +785,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:03.016573Z",
+"2024-04-29T19:33:28.088058Z",
 "path":
 "sub-Temp-pref-F22-B22-6dpf-04-unsorted-nac/sub-Temp-pref-F22-B22-6dpf-04-unsorted-nac_ses-20230605T163200_behavior.nwb",
 "size":
@@ -827,7 +827,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/7ddc6904-9d9c-4b1a-9a33-95ff91ba48aa/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/c47/1b5/c471b519-01ca-42a8-9260-dbbb4d0cd0ee"
+"https://dandiarchive.s3.amazonaws.com/blobs/c47/1b5/c471b519-01ca-42a8-9260-dbbb4d0cd0ee"
 ],
 "dateModified":
 "2023-11-11T10:50:00.578648-05:00",
@@ -983,7 +983,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:04.612259Z",
+"2024-04-29T19:33:28.096750Z",
 "path":
 "sub-Temp-pref-F22-B22-6dpf-14-unsorted-nac/sub-Temp-pref-F22-B22-6dpf-14-unsorted-nac_ses-20230612T113200_behavior.nwb",
 "size":
@@ -1025,7 +1025,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/486b888f-67a3-49ef-aa72-63228faaf93a/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/426/43a/42643af9-112b-4798-aa24-79cc474462bb"
+"https://dandiarchive.s3.amazonaws.com/blobs/426/43a/42643af9-112b-4798-aa24-79cc474462bb"
 ],
 "dateModified":
 "2023-11-11T10:50:03.895788-05:00",
@@ -1181,7 +1181,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:05.388939Z",
+"2024-04-29T19:33:28.102083Z",
 "path":
 "sub-Temp-pref-F22-B22-6dpf-15-unsorted-nac/sub-Temp-pref-F22-B22-6dpf-15-unsorted-nac_ses-20230612T120500_behavior.nwb",
 "size":
@@ -1223,7 +1223,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/e40875e0-9aa8-4f6c-a850-5f2166f68063/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/9b1/b77/9b1b7783-6c03-4295-b2f6-dba00712fb1a"
+"https://dandiarchive.s3.amazonaws.com/blobs/9b1/b77/9b1b7783-6c03-4295-b2f6-dba00712fb1a"
 ],
 "dateModified":
 "2023-11-11T10:50:04.156438-05:00",
@@ -1379,7 +1379,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:05.912771Z",
+"2024-04-29T19:33:28.105850Z",
 "path":
 "sub-Temp-pref-F22-B22-7dpf-05-unsorted-nac/sub-Temp-pref-F22-B22-7dpf-05-unsorted-nac_ses-20230606T100500_behavior.nwb",
 "size":
@@ -1421,7 +1421,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/1e6ce06e-56df-4070-98d9-967ce0db64a2/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/785/4bf/7854bf1a-dd84-4db0-ba91-290ffa997480"
+"https://dandiarchive.s3.amazonaws.com/blobs/785/4bf/7854bf1a-dd84-4db0-ba91-290ffa997480"
 ],
 "dateModified":
 "2023-11-11T10:50:05.062422-05:00",
@@ -1577,7 +1577,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:06.822213Z",
+"2024-04-29T19:33:28.114756Z",
 "path":
 "sub-Temp-pref-F22-B22-7dpf-06-unsorted-nac/sub-Temp-pref-F22-B22-7dpf-06-unsorted-nac_ses-20230606T104200_behavior.nwb",
 "size":
@@ -1619,7 +1619,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/53cb3103-ca42-468b-af8f-48a4d3785fa1/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/2f2/4d0/2f24d0c2-48c7-4f53-bb44-0797590cabd9"
+"https://dandiarchive.s3.amazonaws.com/blobs/2f2/4d0/2f24d0c2-48c7-4f53-bb44-0797590cabd9"
 ],
 "dateModified":
 "2023-11-11T10:50:05.242767-05:00",
@@ -1775,7 +1775,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:06.820878Z",
+"2024-04-29T19:33:28.110237Z",
 "path":
 "sub-Temp-pref-F22-B22-7dpf-07-unsorted-nac/sub-Temp-pref-F22-B22-7dpf-07-unsorted-nac_ses-20230606T111900_behavior.nwb",
 "size":
@@ -1817,7 +1817,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/5c3e84dd-396c-46c2-8419-878c857b7ff7/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/c02/7db/c027dbb6-6d27-46da-b317-55632b0a0d4e"
+"https://dandiarchive.s3.amazonaws.com/blobs/c02/7db/c027dbb6-6d27-46da-b317-55632b0a0d4e"
 ],
 "dateModified":
 "2023-11-11T10:50:06.133426-05:00",
@@ -1973,7 +1973,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:07.566735Z",
+"2024-04-29T19:33:28.118743Z",
 "path":
 "sub-Temp-pref-F22-B22-7dpf-08-unsorted-nac/sub-Temp-pref-F22-B22-7dpf-08-unsorted-nac_ses-20230606T115200_behavior.nwb",
 "size":
@@ -2015,7 +2015,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/6a0e0c64-a57f-4965-9855-2f600b3d5fcd/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/a23/107/a2310755-262c-4d13-aebc-bd79b6fc3bba"
+"https://dandiarchive.s3.amazonaws.com/blobs/a23/107/a2310755-262c-4d13-aebc-bd79b6fc3bba"
 ],
 "dateModified":
 "2023-11-11T10:50:06.543076-05:00",
@@ -2171,7 +2171,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:07.969024Z",
+"2024-04-29T19:33:28.123013Z",
 "path":
 "sub-Temp-pref-F22-B22-7dpf-09-unsorted-nac/sub-Temp-pref-F22-B22-7dpf-09-unsorted-nac_ses-20230606T122400_behavior.nwb",
 "size":
@@ -2213,7 +2213,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/00da21e5-312e-4d33-95ca-0ef19e6ff8a2/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/1c5/b7b/1c5b7beb-f716-48bb-baa2-e6eb3a5ec15b"
+"https://dandiarchive.s3.amazonaws.com/blobs/1c5/b7b/1c5b7beb-f716-48bb-baa2-e6eb3a5ec15b"
 ],
 "dateModified":
 "2023-11-11T10:50:07.238889-05:00",
@@ -2369,7 +2369,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:08.602786Z",
+"2024-04-29T19:33:28.126845Z",
 "path":
 "sub-Temp-pref-F22-B22-7dpf-10-unsorted-nac/sub-Temp-pref-F22-B22-7dpf-10-unsorted-nac_ses-20230606T125600_behavior.nwb",
 "size":
@@ -2411,7 +2411,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/278e6685-d90e-40e9-96fa-b1bfd84b42a2/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/b95/b77/b95b77cc-d171-449e-a992-680890303e0e"
+"https://dandiarchive.s3.amazonaws.com/blobs/b95/b77/b95b77cc-d171-449e-a992-680890303e0e"
 ],
 "dateModified":
 "2023-11-11T10:50:08.268753-05:00",
@@ -2567,7 +2567,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:09.649932Z",
+"2024-04-29T19:33:28.136751Z",
 "path":
 "sub-Temp-pref-F22-B22-7dpf-11-unsorted-nac/sub-Temp-pref-F22-B22-7dpf-11-unsorted-nac_ses-20230606T135500_behavior.nwb",
 "size":
@@ -2609,7 +2609,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/7c04120d-81e4-4bd1-9cad-8c4d190d0c8c/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/5f5/7ca/5f57ca87-a723-4308-8e06-55e0c375a7d5"
+"https://dandiarchive.s3.amazonaws.com/blobs/5f5/7ca/5f57ca87-a723-4308-8e06-55e0c375a7d5"
 ],
 "dateModified":
 "2023-11-11T10:50:08.268753-05:00",
@@ -2765,7 +2765,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:09.647544Z",
+"2024-04-29T19:33:28.132130Z",
 "path":
 "sub-Temp-pref-F22-B22-7dpf-12-unsorted-nac/sub-Temp-pref-F22-B22-7dpf-12-unsorted-nac_ses-20230606T144900_behavior.nwb",
 "size":
@@ -2807,7 +2807,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/d80b4d0b-ce8b-4e22-9e9e-077aae351b18/download/",
-"https://dandiarchive-embargo.s3.amazonaws.com/000700/blobs/e33/379/e333797c-b5c6-46c1-93c5-d783cd5b55b5"
+"https://dandiarchive.s3.amazonaws.com/blobs/e33/379/e333797c-b5c6-46c1-93c5-d783cd5b55b5"
 ],
 "dateModified":
 "2023-11-11T10:50:08.804444-05:00",
@@ -2963,7 +2963,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:50:09.972741Z",
+"2024-04-29T19:33:28.149440Z",
 "path":
 "sub-Temp-pref-F22-B22-7dpf-13-unsorted-nac/sub-Temp-pref-F22-B22-7dpf-13-unsorted-nac_ses-20230606T160000_behavior.nwb",
 "size":
